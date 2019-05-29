@@ -46,8 +46,9 @@ class Artist
 
   def add_song(song)
     @songs << song
- @@ -36,7 +51,10 @@ def add_songs(songs)
-    songs.each { |song| add_song(song) }
+  end
+# @@ -36,7 +51,10 @@ def add_songs(songs)
+#     songs.each { |song| add_song(song) }
   end
 
 =begin
