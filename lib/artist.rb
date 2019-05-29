@@ -5,7 +5,7 @@ require_relative '../lib/concerns/paramable.rb'
 
 
 
-require_relative '../lib/artist.rb'
+# require_relative '../lib/artist.rb'
 
   class Artist
   attr_accessor :name
