@@ -1,3 +1,7 @@
+
+
+
+
 require_relative '../lib/artist.rb'
 
   class Artist
